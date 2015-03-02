@@ -25,8 +25,8 @@ CakePHP CookBook 是一个公开地开发和社区可以编辑的文档项目。
 创建一个博客
 ------------
 
-从 :doc:`博客教程</tutorials-and-examples/blog/blog>` 开始。您会了解 CakePHP 的基本知识，并在此过程中建立一
-个基本的博客。
+本教程文档从 :doc:`博客教程</tutorials-and-examples/blog/blog>` 开始入门。您将学习到 CakePHP 的基础知识，并建立一
+个初级的博客。
 
 约定
 -----------
